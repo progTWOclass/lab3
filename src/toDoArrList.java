@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-public class Question1 {
+public class toDoArrList {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         ArrayList<String> toDoList = new ArrayList<>();
